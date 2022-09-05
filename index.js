@@ -7,7 +7,7 @@ require("dotenv").config();
 const User = require("./UserSchema");
 const Form = require("./FormSchema");
 
-app.use(cors({ origin: ["http://localhost:3000"], optionsSuccessStatus: 200 }));
+app.use(cors({ origin: ["https://reactv2-632d0.web.app"], optionsSuccessStatus: 200 }));
 app.use(express.json());
 
 app.get("/", (req, res) => res.send("Server"));
