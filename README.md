@@ -1,4 +1,4 @@
-https://reactv2-632d0.web.app
+https://reactt-theta.vercel.app
 
 Admin
 
